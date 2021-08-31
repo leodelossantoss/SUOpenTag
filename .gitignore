@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Others
+*.DS_Store
+*json
+cached_crf-test_bert_65_attr
+*.sh
+outputs/
